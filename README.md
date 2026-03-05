@@ -61,9 +61,6 @@ a suitable extensive architecture for the community to keep contributing.
 
 
 
-## 📄 Documentation
-Full documentation on installation, dependencies, configuration, running the server, deployment options,
-ingesting local documents, API details and UI features can be found here: https://docs.privategpt.dev/
 
 ## 🧩 Architecture
 Conceptually, PrivateGPT is an API that wraps a RAG pipeline and exposes its
@@ -111,6 +108,7 @@ You can also use the "Cite this repository" button in this repo to get the citat
 
 
 ```
+
 
 
 
