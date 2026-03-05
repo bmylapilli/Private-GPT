@@ -8,11 +8,7 @@ PrivateGPT is a production-ready AI project that allows you to ask questions abo
 of Large Language Models (LLMs), even in scenarios without an Internet connection. 100% private, no data leaves your
 execution environment at any point.
 
->[!TIP]
-> If you are looking for an **enterprise-ready, fully private AI workspace**
-> check out [Zylon's website](https://zylon.ai)  or [request a demo](https://cal.com/zylon/demo?source=pgpt-readme).
-> Crafted by the team behind PrivateGPT, Zylon is a best-in-class AI collaborative
-> workspace that can be easily deployed on-premise (data center, bare metal...) or in your private cloud (AWS, GCP, Azure...).
+
 
 The project provides an API offering all the primitives required to build private, context-aware AI applications.
 It follows and extends the [OpenAI API standard](https://openai.com/blog/openai-api),
@@ -55,8 +51,7 @@ for thousands of local-focused generative AI projects, was the foundation of wha
 thus a simpler and more educational implementation to understand the basic concepts required
 to build a fully local -and therefore, private- chatGPT-like tool.
 
-If you want to keep experimenting with it, we have saved it in the
-[primordial branch](https://github.com/zylon-ai/private-gpt/tree/primordial) of the project.
+
 
 > It is strongly recommended to do a clean clone and install of this new version of
 PrivateGPT if you come from the previous, primordial version.
@@ -67,7 +62,7 @@ completions, document ingestion, RAG pipelines and other low-level building bloc
 We want to make it easier for any developer to build AI applications and experiences, as well as provide
 a suitable extensive architecture for the community to keep contributing.
 
-Stay tuned to our [releases](https://github.com/zylon-ai/private-gpt/releases) to check out all the new features and changes included.
+
 
 ## 📄 Documentation
 Full documentation on installation, dependencies, configuration, running the server, deployment options,
@@ -106,40 +101,20 @@ Contributions are welcomed! To ensure code quality we have enabled several forma
 typing checks, just run `make check` before committing to make sure your code is ok.
 Remember to test your code! You'll find a tests folder with helpers, and you can run
 tests using `make test` command.
-
-Don't know what to contribute? Here is the public 
-[Project Board](https://github.com/users/imartinez/projects/3) with several ideas. 
+ with several ideas. 
 
 Head over to Discord 
 #contributors channel and ask for write permissions on that GitHub project.
 
-## 💬 Community
-Join the conversation around PrivateGPT on our:
-- [Twitter (aka X)](https://twitter.com/PrivateGPT_AI)
-- [Discord](https://discord.gg/bK6mRVpErU)
+
 
 ## 📖 Citation
 If you use PrivateGPT in a paper, check out the [Citation file](CITATION.cff) for the correct citation.  
 You can also use the "Cite this repository" button in this repo to get the citation in different formats.
 
-Here are a couple of examples:
 
-#### BibTeX
-```bibtex
-@software{Zylon_PrivateGPT_2023,
-author = {Zylon by PrivateGPT},
-license = {Apache-2.0},
-month = may,
-title = {{PrivateGPT}},
-url = {https://github.com/zylon-ai/private-gpt},
-year = {2023}
-}
 ```
 
-#### APA
-```
-Zylon by PrivateGPT (2023). PrivateGPT [Computer software]. https://github.com/zylon-ai/private-gpt
-```
 
 
 
