@@ -31,10 +31,7 @@ In addition to this, a working [Gradio UI](https://www.gradio.app/)
 client is provided to test the API, together with a set of useful tools such as bulk model
 download script, ingestion script, documents folder watch, etc.
 
-## 🎞️ Overview
->[!WARNING]
->  This README is not updated as frequently as the [documentation](https://docs.privategpt.dev/).
->  Please check it out for the latest updates!
+
 
 ### Motivation behind PrivateGPT
 Generative AI is a game changer for our society, but adoption in companies of all sizes and data-sensitive
@@ -114,6 +111,7 @@ You can also use the "Cite this repository" button in this repo to get the citat
 
 
 ```
+
 
 
 
